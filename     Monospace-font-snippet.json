@@ -1,9 +1,0 @@
-{
-  "spec": 1,
-  "name": "Monospace",
-  "previewText": "Monospace font",
-  "main": {
-    "ggsans-Normal": "https://raw.githubusercontent.com/djvi171/-ffc/main/Monospace.ttf",
-    "ggmono-Normal": "https://raw.githubusercontent.com/djvi171/-ffc/main/Monospace.ttf"
-  }
-}
