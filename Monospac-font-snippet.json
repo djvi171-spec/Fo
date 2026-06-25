@@ -1,15 +1,15 @@
 {
   "spec": 1,
-  "name": "Monospace",
-  "previewText": "Monospace font",
+  "name": "Monospac",
+  "previewText": "Monospac font",
   "main": {
-    "ggsans-Normal": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "ggsans-Medium": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "ggsans-Semibold": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "ggsans-Bold": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "NotoSans-Normal": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "NotoSans-Medium": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "NotoSans-Semibold": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf",
-    "ggmono-Normal": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospace.ttf"
+    "ggsans-Normal": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/djvi171-spec/Fo/main/Monospac.ttf"
   }
 }
